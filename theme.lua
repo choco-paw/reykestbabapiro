@@ -1,5 +1,6 @@
 --[[
 hello why are u here
+also im toooooooooo lazy to obfuscate:(
 ]]
 local cloneref = (cloneref or clonereference or function(instance)
     return instance
